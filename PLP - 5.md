@@ -8,6 +8,18 @@ ferramenta para extração de ``schemas`` de base da dados normalizada, a partir
 
 Criar ferramenta, para gestão de projetos com múltiplas entradas de dados não padronizados,  e analise para criação de uma Base de dados relacional, que melhor representa os dados de forma normalizada.
 
+# Fatores
+
+- Tabelas parecidas com erros de digitação nas colunas 
+- Colunas com mesmo nome, dados diferentes
+-  Dados com erros de digitação
+- Índice obscuro (junção de varias colunas)
+- Fontes de dados
+	- tabelas (csv, ou excell)
+	- pontos geográficos
+- 
+
+
 
 
 ## Revisão
