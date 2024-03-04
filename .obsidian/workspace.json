@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLP - 5.md",
+                "file": "revisao/Development of a Knowledge Graph for Automatic Job Hazard Analysis- The Schema.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLP - 5.md",
+                "file": "revisao/Development of a Knowledge Graph for Automatic Job Hazard Analysis- The Schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLP - 5.md",
+                "file": "revisao/Development of a Knowledge Graph for Automatic Job Hazard Analysis- The Schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLP - 5.md"
+                "file": "revisao/Development of a Knowledge Graph for Automatic Job Hazard Analysis- The Schema.md"
               }
             }
           }
@@ -160,9 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "207bda7625e997f3",
+  "active": "6bf72008c8718b61",
   "lastOpenFiles": [
-    "revisao",
-    "PLP - 5.md"
+    "revisao/COMPARING MANUAL AND AUTOMATIC NORMALIZATION TECHNIQUES FOR RELATIONAL DATABASE.md",
+    "revisao/Automatic database normalization and primary key generation.md",
+    "revisao/An Algorithmic Approach to Database Normalization.md",
+    "PLP - 5.md",
+    "Untitled",
+    "revisao/Development of a Knowledge Graph for Automatic Job Hazard Analysis- The Schema.md",
+    "revisao"
   ]
 }
