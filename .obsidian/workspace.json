@@ -4,48 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9670fa2f16ebaa87",
+        "id": "8ccfa2ccc0cc9fe1",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf72008c8718b61",
+            "id": "4e2c3741b0a2d732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLP - 5.md",
+                "file": "base de tudo/Selecionados.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5fb426e6404075c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "revisao/An Algorithmic Approach to Database Normalization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5731519b9fe4225b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "40ab48b42497f594",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "PLP - 5.md",
-                "staged": false
               }
             }
           }
@@ -78,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Selecionado",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -115,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "base de tudo/Selecionados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "base de tudo/Selecionados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,11 +124,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "base de tudo/Selecionados.md"
+              }
+            }
+          },
+          {
+            "id": "5b8167e10f447e5d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           },
           {
-            "id": "ce71d8c19470b223",
+            "id": "9093219ae93e6918",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -164,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,13 +162,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40ab48b42497f594",
+  "active": "d75211849e681df8",
   "lastOpenFiles": [
-    "revisao/An Algorithmic Approach to Database Normalization.md",
-    "PLP - 5.md",
-    "Tarefas.md",
+    "base de tudo/Selecionados.md",
+    "base de tudo/25 - A new automatic identification system of insect images at the order level Knowl.-Based Syst.md",
+    "base de tudo/52 - Pose estimation-dependent identification method for field moth images using deep learning architecture.md",
+    "base de tudo/43 - Dimension reduction analysis in image-based species classification, in Intelligent Computing and Intelligent Systems.md",
+    "base de tudo/46 - Artificial neural networks based red palm weevil (Rynchophorus Ferrugineous, Olivier) recognition system.md",
+    "base de tudo/47 - Insect species recognition using discriminative local soft coding, in Proceedings of the Pattern Recognition (ICPR).md",
+    "base de tudo/42 - Insect Species Recognition using Sparse Representation, in Proceedings of the British Machine Vision Conference, British Machine Vision Association.md",
+    "base de tudo/54 - Automated identification of leafhoppers.md",
+    "base de tudo/50 - A software system for automated identification and retrieval of moth images based on wing attributes.md",
+    "base de tudo/33 - A test of a pattern recognition system for identification of spiders Bull. Èntomol. Res..md",
+    "base de tudo/39 - Introducing SPIDA-Web Wavelets, Neural Networks and Internet Accessibility in an Image-Based Automated Identification System.md",
+    "base de tudo/44 - An insect classification analysis based on shape features using quality threshold ARTMAP and moment invariant.md",
+    "base de tudo/A survey on image-based insect classification.md",
+    "base de tudo/63 - Detection of insects in bulk wheat samples with machine vision.md",
+    "base de tudo/57 - Automated insect identification through concatenated histograms of local appearance features feature vector generation and region detection for deformable objects.md",
+    "base de tudo/53 - Morphometric discrimination among females of sibling species of Aconophorini.md",
+    "base de tudo/51 - Machine vision automated species identification scaled towards production levels machine vision ID.md",
+    "base de tudo/49 - A tool for developing an automatic insect identification system based on wing outlines.md",
+    "base de tudo/41 - Auto-classification of insect images based on color histogram and GLCM, in  Proceedings of the Fuzzy Systems and Knowledge Discovery (FSKD).md",
+    "base de tudo/40 - Identification of Africanized honey bees through wing morphometrics two fast and efficient procedures.md",
+    "base de tudo/26 - The identification of butterfly families using content-based image retrieval.md",
+    "base de tudo/19 - An aquatic insect imaging system to automate insect classification.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "base de tudo/Untitled",
+    "base de tudo",
     "revisao/Development of a Knowledge Graph for Automatic Job Hazard Analysis- The Schema.md",
-    "revisao/Automatic database normalization and primary key generation.md",
     "revisao/COMPARING MANUAL AND AUTOMATIC NORMALIZATION TECHNIQUES FOR RELATIONAL DATABASE.md",
     "Termos",
     "revisao"
