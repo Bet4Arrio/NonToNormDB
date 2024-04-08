@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49d6816a30487367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cronograma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a94ac4425277015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base de tudo/54 - Automated identification of leafhoppers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ff224041b413668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base de tudo/25 - A new automatic identification system of insect images at the order level Knowl.-Based Syst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Selecionado",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de tudo/Selecionados.md",
+                "file": "Cronograma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de tudo/Selecionados.md",
+                "file": "Cronograma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de tudo/Selecionados.md"
+                "file": "Cronograma.md"
               }
             }
           },
@@ -162,23 +199,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d75211849e681df8",
+  "active": "49d6816a30487367",
   "lastOpenFiles": [
     "base de tudo/Selecionados.md",
-    "base de tudo/25 - A new automatic identification system of insect images at the order level Knowl.-Based Syst.md",
-    "base de tudo/52 - Pose estimation-dependent identification method for field moth images using deep learning architecture.md",
+    "Cronograma.md",
     "base de tudo/43 - Dimension reduction analysis in image-based species classification, in Intelligent Computing and Intelligent Systems.md",
+    "base de tudo/54 - Automated identification of leafhoppers.md",
+    "base de tudo/25 - A new automatic identification system of insect images at the order level Knowl.-Based Syst.md",
+    "base de tudo/57 - Automated insect identification through concatenated histograms of local appearance features feature vector generation and region detection for deformable objects.md",
+    "base de tudo/42 - Insect Species Recognition using Sparse Representation, in Proceedings of the British Machine Vision Conference, British Machine Vision Association.md",
+    "Tarefas.md",
+    "base de tudo/44 - An insect classification analysis based on shape features using quality threshold ARTMAP and moment invariant.md",
+    "base de tudo/A survey on image-based insect classification.md",
+    "base de tudo/52 - Pose estimation-dependent identification method for field moth images using deep learning architecture.md",
     "base de tudo/46 - Artificial neural networks based red palm weevil (Rynchophorus Ferrugineous, Olivier) recognition system.md",
     "base de tudo/47 - Insect species recognition using discriminative local soft coding, in Proceedings of the Pattern Recognition (ICPR).md",
-    "base de tudo/42 - Insect Species Recognition using Sparse Representation, in Proceedings of the British Machine Vision Conference, British Machine Vision Association.md",
-    "base de tudo/54 - Automated identification of leafhoppers.md",
     "base de tudo/50 - A software system for automated identification and retrieval of moth images based on wing attributes.md",
     "base de tudo/33 - A test of a pattern recognition system for identification of spiders Bull. Èntomol. Res..md",
     "base de tudo/39 - Introducing SPIDA-Web Wavelets, Neural Networks and Internet Accessibility in an Image-Based Automated Identification System.md",
-    "base de tudo/44 - An insect classification analysis based on shape features using quality threshold ARTMAP and moment invariant.md",
-    "base de tudo/A survey on image-based insect classification.md",
     "base de tudo/63 - Detection of insects in bulk wheat samples with machine vision.md",
-    "base de tudo/57 - Automated insect identification through concatenated histograms of local appearance features feature vector generation and region detection for deformable objects.md",
     "base de tudo/53 - Morphometric discrimination among females of sibling species of Aconophorini.md",
     "base de tudo/51 - Machine vision automated species identification scaled towards production levels machine vision ID.md",
     "base de tudo/49 - A tool for developing an automatic insect identification system based on wing outlines.md",
@@ -186,12 +225,10 @@
     "base de tudo/40 - Identification of Africanized honey bees through wing morphometrics two fast and efficient procedures.md",
     "base de tudo/26 - The identification of butterfly families using content-based image retrieval.md",
     "base de tudo/19 - An aquatic insect imaging system to automate insect classification.md",
-    "Untitled.md",
     "Untitled 1.md",
     "base de tudo/Untitled",
     "base de tudo",
     "revisao/Development of a Knowledge Graph for Automatic Job Hazard Analysis- The Schema.md",
-    "revisao/COMPARING MANUAL AND AUTOMATIC NORMALIZATION TECHNIQUES FOR RELATIONAL DATABASE.md",
     "Termos",
     "revisao"
   ]
