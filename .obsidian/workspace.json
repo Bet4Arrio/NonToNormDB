@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e2c3741b0a2d732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base de tudo/Selecionados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "49d6816a30487367",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,18 +188,18 @@
   },
   "active": "49d6816a30487367",
   "lastOpenFiles": [
+    "Tarefas.md",
     "base de tudo/Selecionados.md",
     "Cronograma.md",
+    "base de tudo/46 - Artificial neural networks based red palm weevil (Rynchophorus Ferrugineous, Olivier) recognition system.md",
     "base de tudo/43 - Dimension reduction analysis in image-based species classification, in Intelligent Computing and Intelligent Systems.md",
     "base de tudo/54 - Automated identification of leafhoppers.md",
     "base de tudo/25 - A new automatic identification system of insect images at the order level Knowl.-Based Syst.md",
     "base de tudo/57 - Automated insect identification through concatenated histograms of local appearance features feature vector generation and region detection for deformable objects.md",
     "base de tudo/42 - Insect Species Recognition using Sparse Representation, in Proceedings of the British Machine Vision Conference, British Machine Vision Association.md",
-    "Tarefas.md",
     "base de tudo/44 - An insect classification analysis based on shape features using quality threshold ARTMAP and moment invariant.md",
     "base de tudo/A survey on image-based insect classification.md",
     "base de tudo/52 - Pose estimation-dependent identification method for field moth images using deep learning architecture.md",
-    "base de tudo/46 - Artificial neural networks based red palm weevil (Rynchophorus Ferrugineous, Olivier) recognition system.md",
     "base de tudo/47 - Insect species recognition using discriminative local soft coding, in Proceedings of the Pattern Recognition (ICPR).md",
     "base de tudo/50 - A software system for automated identification and retrieval of moth images based on wing attributes.md",
     "base de tudo/33 - A test of a pattern recognition system for identification of spiders Bull. Èntomol. Res..md",
