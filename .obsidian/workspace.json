@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49d6816a30487367",
+            "id": "6a94ac4425277015",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "6a94ac4425277015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base de tudo/54 - Automated identification of leafhoppers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ff224041b413668",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de tudo/25 - A new automatic identification system of insect images at the order level Knowl.-Based Syst.md",
+                "file": "Tarefas.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,15 +175,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49d6816a30487367",
+  "active": "6a94ac4425277015",
   "lastOpenFiles": [
+    "base de tudo/54 - Automated identification of leafhoppers.md",
     "Tarefas.md",
-    "base de tudo/Selecionados.md",
     "Cronograma.md",
+    "base de tudo/25 - A new automatic identification system of insect images at the order level Knowl.-Based Syst.md",
+    "PLP - 5.md",
+    "base de tudo/Selecionados.md",
     "base de tudo/46 - Artificial neural networks based red palm weevil (Rynchophorus Ferrugineous, Olivier) recognition system.md",
     "base de tudo/43 - Dimension reduction analysis in image-based species classification, in Intelligent Computing and Intelligent Systems.md",
-    "base de tudo/54 - Automated identification of leafhoppers.md",
-    "base de tudo/25 - A new automatic identification system of insect images at the order level Knowl.-Based Syst.md",
     "base de tudo/57 - Automated insect identification through concatenated histograms of local appearance features feature vector generation and region detection for deformable objects.md",
     "base de tudo/42 - Insect Species Recognition using Sparse Representation, in Proceedings of the British Machine Vision Conference, British Machine Vision Association.md",
     "base de tudo/44 - An insect classification analysis based on shape features using quality threshold ARTMAP and moment invariant.md",
@@ -215,7 +205,6 @@
     "Untitled 1.md",
     "base de tudo/Untitled",
     "base de tudo",
-    "revisao/Development of a Knowledge Graph for Automatic Job Hazard Analysis- The Schema.md",
     "Termos",
     "revisao"
   ]
