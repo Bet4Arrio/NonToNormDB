@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a94ac4425277015",
+            "id": "3ff224041b413668",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3ff224041b413668",
+            "id": "b575021c29da3556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarefas.md",
+                "file": "base de tudo/Image Processing Techniques for InsectShape Detection in Field Crops.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Selecionado tag:#SIFT  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,22 +174,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a94ac4425277015",
+  "active": "207bda7625e997f3",
   "lastOpenFiles": [
-    "base de tudo/54 - Automated identification of leafhoppers.md",
     "Tarefas.md",
     "Cronograma.md",
-    "base de tudo/25 - A new automatic identification system of insect images at the order level Knowl.-Based Syst.md",
     "PLP - 5.md",
+    "revisao/Development of a Knowledge Graph for Automatic Job Hazard Analysis- The Schema.md",
+    "revisao/COMPARING MANUAL AND AUTOMATIC NORMALIZATION TECHNIQUES FOR RELATIONAL DATABASE.md",
+    "revisao/An Algorithmic Approach to Database Normalization.md",
+    "base de tudo/47 - Insect species recognition using discriminative local soft coding, in Proceedings of the Pattern Recognition (ICPR).md",
+    "base de tudo/42 - Insect Species Recognition using Sparse Representation, in Proceedings of the British Machine Vision Conference, British Machine Vision Association.md",
+    "Filtragem de Dados.md",
+    "base de tudo/Image Processing Techniques for InsectShape Detection in Field Crops.md",
+    "Untitled",
+    "base de tudo/54 - Automated identification of leafhoppers.md",
+    "base de tudo/25 - A new automatic identification system of insect images at the order level Knowl.-Based Syst.md",
     "base de tudo/Selecionados.md",
     "base de tudo/46 - Artificial neural networks based red palm weevil (Rynchophorus Ferrugineous, Olivier) recognition system.md",
     "base de tudo/43 - Dimension reduction analysis in image-based species classification, in Intelligent Computing and Intelligent Systems.md",
     "base de tudo/57 - Automated insect identification through concatenated histograms of local appearance features feature vector generation and region detection for deformable objects.md",
-    "base de tudo/42 - Insect Species Recognition using Sparse Representation, in Proceedings of the British Machine Vision Conference, British Machine Vision Association.md",
     "base de tudo/44 - An insect classification analysis based on shape features using quality threshold ARTMAP and moment invariant.md",
     "base de tudo/A survey on image-based insect classification.md",
     "base de tudo/52 - Pose estimation-dependent identification method for field moth images using deep learning architecture.md",
-    "base de tudo/47 - Insect species recognition using discriminative local soft coding, in Proceedings of the Pattern Recognition (ICPR).md",
     "base de tudo/50 - A software system for automated identification and retrieval of moth images based on wing attributes.md",
     "base de tudo/33 - A test of a pattern recognition system for identification of spiders Bull. Èntomol. Res..md",
     "base de tudo/39 - Introducing SPIDA-Web Wavelets, Neural Networks and Internet Accessibility in an Image-Based Automated Identification System.md",
@@ -198,14 +203,9 @@
     "base de tudo/53 - Morphometric discrimination among females of sibling species of Aconophorini.md",
     "base de tudo/51 - Machine vision automated species identification scaled towards production levels machine vision ID.md",
     "base de tudo/49 - A tool for developing an automatic insect identification system based on wing outlines.md",
-    "base de tudo/41 - Auto-classification of insect images based on color histogram and GLCM, in  Proceedings of the Fuzzy Systems and Knowledge Discovery (FSKD).md",
-    "base de tudo/40 - Identification of Africanized honey bees through wing morphometrics two fast and efficient procedures.md",
-    "base de tudo/26 - The identification of butterfly families using content-based image retrieval.md",
-    "base de tudo/19 - An aquatic insect imaging system to automate insect classification.md",
-    "Untitled 1.md",
     "base de tudo/Untitled",
     "base de tudo",
-    "Termos",
+    "Untitled/Termos",
     "revisao"
   ]
 }
